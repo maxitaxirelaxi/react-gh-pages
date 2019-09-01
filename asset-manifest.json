@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https//maxitaxirelaxi.github.io/react-gh-pages/static/css/main.2cce8147.chunk.css",
-    "main.js": "https//maxitaxirelaxi.github.io/react-gh-pages/static/js/main.2d976eed.chunk.js",
-    "main.js.map": "https//maxitaxirelaxi.github.io/react-gh-pages/static/js/main.2d976eed.chunk.js.map",
-    "runtime~main.js": "https//maxitaxirelaxi.github.io/react-gh-pages/static/js/runtime~main.28112e77.js",
-    "runtime~main.js.map": "https//maxitaxirelaxi.github.io/react-gh-pages/static/js/runtime~main.28112e77.js.map",
-    "static/js/2.ffe1b71b.chunk.js": "https//maxitaxirelaxi.github.io/react-gh-pages/static/js/2.ffe1b71b.chunk.js",
-    "static/js/2.ffe1b71b.chunk.js.map": "https//maxitaxirelaxi.github.io/react-gh-pages/static/js/2.ffe1b71b.chunk.js.map",
-    "index.html": "https//maxitaxirelaxi.github.io/react-gh-pages/index.html",
-    "precache-manifest.a835385067c59431b1939356e0dfe57d.js": "https//maxitaxirelaxi.github.io/react-gh-pages/precache-manifest.a835385067c59431b1939356e0dfe57d.js",
-    "service-worker.js": "https//maxitaxirelaxi.github.io/react-gh-pages/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "https//maxitaxirelaxi.github.io/react-gh-pages/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "https//maxitaxirelaxi.github.io/react-gh-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-gh-pages/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.61ee0be3.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.61ee0be3.chunk.js.map",
+    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.a3858a92.js",
+    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.a3858a92.js.map",
+    "static/js/2.ffe1b71b.chunk.js": "/react-gh-pages/static/js/2.ffe1b71b.chunk.js",
+    "static/js/2.ffe1b71b.chunk.js.map": "/react-gh-pages/static/js/2.ffe1b71b.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.fdde2a1cd4013e709ea037b3e0d0c13b.js": "/react-gh-pages/precache-manifest.fdde2a1cd4013e709ea037b3e0d0c13b.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-gh-pages/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
   }
 }
